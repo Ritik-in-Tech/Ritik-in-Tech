@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👂 My name is Ritik Tiwari<br>🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.<br> 📫 How to reach me: Email: tiwari.26@iitj.ac.in<br>❤️ I love to hear from you regarding any problem related to development.<br> 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)<br>💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**<br>📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/17nkbVEiSTVsrB3HV6TL1ztRdjs8qiG5q/view?usp=sharing)
+👂 My name is Ritik Tiwari<br>🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.<br> 📫 How to reach me: Email: tiwari.26@iitj.ac.in<br>❤️ I love to hear from you regarding any problem related to development.<br> 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)<br>💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**<br>📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/17nkbVEiSTVsrB3HV6TL1ztRdjs8qiG5q/view?usp=drive_link)
 
 ## 🌐 Socials:
 <table align="center">
@@ -92,18 +92,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=testgithubtiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=testgithubtiwari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=testgithubtiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ritik-in-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-in-Tech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-in-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=testgithubtiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ritik-in-Tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=testgithubtiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ritik-in-Tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=testgithubtiwari&icon=0&color=0)](https://visitcount.itsvg.in)

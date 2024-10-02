@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👂 My name is Ritik Tiwari<br>🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.<br> 📫 How to reach me: Email: tiwari.26@iitj.ac.in<br>❤️ I love to hear from you regarding any problem related to development.<br> 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)<br>💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**<br>📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/17nkbVEiSTVsrB3HV6TL1ztRdjs8qiG5q/view?usp=drive_link)
+👂 My name is Ritik Tiwari<br>🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.<br> 📫 How to reach me: Email: tiwari.26@iitj.ac.in<br>❤️ I love to hear from you regarding any problem related to development.<br> 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-ritik-one.vercel.app/)<br>💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**<br>📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/17nkbVEiSTVsrB3HV6TL1ztRdjs8qiG5q/view?usp=drive_link)
 
 ## 🌐 Socials:
 <table align="center">

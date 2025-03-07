@@ -1,9 +1,12 @@
 name: Update GitHub Stats
 
 on:
+  push: # Runs whenever you push to this repo
+    branches:
+      - main # Or the branch you want to track
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-stats:
@@ -17,11 +20,11 @@ jobs:
           GH_STATS_PAT: ${{ secrets.GH_STATS_PAT }}
         run: |
           curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=Ritik-in-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true&token=${GH_STATS_PAT}"
-          
+
           curl -o streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=Ritik-in-Tech&theme=dark&hide_border=false&token=${GH_STATS_PAT}"
-          
+
           curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-in-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&token=${GH_STATS_PAT}"
-          
+
       - name: Commit and Push Stats
         run: |
           git config --global user.name "github-actions[bot]"

@@ -98,6 +98,12 @@
 ![](streak-stats.svg)<br/>
 ![](top-langs.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritik-in-Tech/Ritik-in-Tech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritik-in-Tech/Ritik-in-Tech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ritik-in-Tech/Ritik-in-Tech/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Ritik-in-Tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)

@@ -34,8 +34,19 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add github-stats.svg streak-stats.svg top-langs.svg
-          git commit -m "🔄 Updated GitHub Stats" || echo "No changes to commit"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          exit 0
+          fi
+          git commit -m "🔄 Updated GitHub Stats"
+          # Retry push with rebase in case main moved while we were generating SVGs
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push attempt $i failed, retrying..."
+            sleep $((i * 5))
+          done
+          echo "Push failed after 3 attempts"
+          exit 1
 
   generate-snake:
     runs-on: ubuntu-latest
